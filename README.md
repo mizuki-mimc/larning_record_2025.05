@@ -1,4 +1,4 @@
-# TIL(学習記録)
+# TIL(Today I Learned)
 
 こちらのリポジトリは2025年5月の学習用のリポジトリです。RUNTEQ在籍中
 
